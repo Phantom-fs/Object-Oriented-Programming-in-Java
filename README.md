@@ -2,9 +2,9 @@
 # Object Oriented Programming in Java
 
 ### [Object Oriented Programming in Java](https://www.coursera.org/specializations/coding-for-everyone) ###
-   -> **Duke University**
+   -> **by Duke University,**
    
-   -> **by University of California, San Diego**
+   -> **University of California, San Diego**
 
 - - - - 
    
