@@ -13,7 +13,7 @@
   
 - - - -
 
-# RESOURCES
+# Resources
    -> **provided for the specialization by Duke University**
 
   * [Java Programming: Solving Problems with Software](https://www.dukelearntoprogram.com//course2/index.php)
