@@ -19,7 +19,7 @@
   * [Java Programming: Solving Problems with Software](https://www.dukelearntoprogram.com//course2/index.php)
   * [Java Programming: Arrays, Lists, and Structured Data](https://www.dukelearntoprogram.com//course3/index.php)
 
-#### [Other Java Programs](https://github.com/Phantom-fs/Java-Programs)
+#### [Java Programs](https://github.com/Phantom-fs/Java-Programs)
 
 - - - -
 
